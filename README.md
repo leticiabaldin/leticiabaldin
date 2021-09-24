@@ -4,8 +4,8 @@ Letícia Baldin
 - 📚: Learning about HTML,CSS,Python,C
 - 👔: Working at Coopersystem
 
-<div>
-  <a href="https://github.com/leticiabaldin" target="_blank"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)" target="_blank"></a>
+ <div style="disolay: inline_block"><br>
+  <a href="https://github.com/leticiabaldin" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=leticiabaldin&show_icons=true&theme=dracula" target="_blank"></a>
  </div>
 
 
