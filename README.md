@@ -4,6 +4,11 @@ Letícia Baldin
 - 📚: Learning about HTML,CSS,Python,C
 - 👔: Working at Coopersystem
 
+<div>
+  <a href="https://github.com/leticiabaldin" target="_blank"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)" target="_blank"></a>
+ </div>
+
+
   <div style="disolay: inline_block"><br>
     <img align="center" alt="Leticia-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img align="center" alt="Leticia-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
