@@ -1,7 +1,7 @@
 
 Letícia Baldin
 - 🖥️: Computer science student
-- 📚: Learning about HTML,CSS,Python,C
+- 📚: Learning about HTML,CSS,Python,Dart
 - 👔: Working at Coopersystem
 
  <div style="disolay: inline_block"><br>
