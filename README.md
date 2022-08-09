@@ -1,8 +1,8 @@
 
 Letícia Baldin
 - 🖥️: Computer science student
-- 📚: Learning about HTML,CSS,Python,Dart
-- 👔: Working at Coopersystem
+- 📚: Learning about HTML,CSS,Dart
+- 👔: Working at Coopersystem 
 
  <div style="disolay: inline_block"><br>
   <a href="https://github.com/leticiabaldin" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=leticiabaldin&show_icons=true&theme=dracula" target="_blank"></a>
