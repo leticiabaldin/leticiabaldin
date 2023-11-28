@@ -1,7 +1,7 @@
 Hi, I'm Letícia Baldin!
 - 🖥️: Computer science student
 - 📚: HTML | CSS | JavaScript | AngularJS | Flutter
-- 👔: Working at Coopersystem as Dev. Front-End Jr.
+- 👔: Working at Coopersystem as Dev. Front-End .
 
 
 
